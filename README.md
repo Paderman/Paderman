@@ -9,6 +9,16 @@
 |---|---|---|
 | [Simple Swap Manager](https://github.com/Paderman/enigma2-plugin-simpleswapmanager) | 🇬🇧 Modern swap file manager: live dashboard, zram, wizard, 32 languages<br>🇩🇪 *Moderne Swap-Verwaltung: Live-Übersicht, zram, Assistent, 32 Sprachen* | [![Latest release](https://img.shields.io/github/v/release/Paderman/enigma2-plugin-simpleswapmanager?label=release)](https://github.com/Paderman/enigma2-plugin-simpleswapmanager/releases/latest) |
 
+## WordPress plugins
+
+🇬🇧 Plugins for **WordPress** websites and **WooCommerce** shops.
+
+🇩🇪 *Plugins für **WordPress**-Websites und **WooCommerce**-Shops.*
+
+| Plugin | Description / Beschreibung | Download |
+|---|---|---|
+| [EAN & ISBN Barcodes](https://github.com/Paderman/wp-plugin-ean-isbn-barcodes) | 🇬🇧 Barcodes for posts, pages, products and books – with product data from several sources<br>🇩🇪 *Barcodes für Beiträge, Seiten, Produkte und Bücher – mit Produktdaten aus mehreren Quellen* | [![Latest release](https://img.shields.io/github/v/release/Paderman/wp-plugin-ean-isbn-barcodes?label=release)](https://github.com/Paderman/wp-plugin-ean-isbn-barcodes/releases/latest) |
+
 🇬🇧 Bug reports, translation corrections or wishes are welcome – please open an issue in the plugin's repository.
 
 🇩🇪 *Fehlermeldungen, Übersetzungskorrekturen oder Wünsche sind willkommen – bitte ein Issue im Repository des Plugins öffnen.*
