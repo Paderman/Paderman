@@ -1,10 +1,9 @@
-# Hi, I'm Paderman 👋
+# Hi, I'm [Paderman](https://github.com/Paderman) 👋
+## Enigma2 plugins
 
 🇬🇧 Plugins for **Enigma2** receivers (openATV, OpenPLi, OpenViX, ...).
 
 🇩🇪 *Plugins für **Enigma2**-Receiver (openATV, OpenPLi, OpenViX, ...).*
-
-## Enigma2 plugins
 
 | Plugin | 🇬🇧 Description | 🇩🇪 Beschreibung | Download |
 |---|---|---|---|
