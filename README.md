@@ -10,6 +10,16 @@
 | [Simple Swap Manager](https://github.com/Paderman/enigma2-plugin-simpleswapmanager) | 🇬🇧 Modern swap file manager: live dashboard, zram, wizard, 32 languages<br>🇩🇪 *Moderne Swap-Verwaltung: Live-Übersicht, zram, Assistent, 32 Sprachen* | [![Latest release](https://img.shields.io/github/v/release/Paderman/enigma2-plugin-simpleswapmanager?label=release)](https://github.com/Paderman/enigma2-plugin-simpleswapmanager/releases/latest) |
 
 ## KDE
+
+### Dolphin
+🇬🇧 Tools for **Dolphin** .
+
+🇩🇪 *Werkzeuge für **Dolphin**.*
+
+| Widget | Description / Beschreibung | Download |
+|---|---|---|
+| [Placeholder](https://github.com/Paderman/Placeholder) | 🇬🇧 This is a placeholder<br>🇩🇪 *Dies ist ein Platzhalter* | [![Latest release](https://img.shields.io/github/v/release/Paderman/Placeholder?label=release)](https://github.com/Paderman/Placeholder/releases/latest) |
+
 ### Widgets
 🇬🇧 Widgets for **KDE** .
 
@@ -17,7 +27,7 @@
 
 | Widget | Description / Beschreibung | Download |
 |---|---|---|
-| [Placeholder](https://github.com/Paderman/Placeholder) | 🇬🇧 Placeholder<br>🇩🇪 *Platzhalter* | [![Latest release](https://img.shields.io/github/v/release/Paderman/Placeholder?label=release)](https://github.com/Paderman/wp-plugin-ean-isbn-barcodes/releases/latest) |
+| [Placeholder](https://github.com/Paderman/Placeholder) | 🇬🇧 This is a placeholder<br>🇩🇪 *Dies ist ein Platzhalter* | [![Latest release](https://img.shields.io/github/v/release/Paderman/Placeholder?label=release)](https://github.com/Paderman/Placeholder/releases/latest) |
 
 🇬🇧 Bug reports, translation corrections or wishes are welcome – please open an issue in the plugin's repository.
 
