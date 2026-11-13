@@ -9,6 +9,21 @@
 |---|---|---|
 | [Simple Swap Manager](https://github.com/Paderman/enigma2-plugin-simpleswapmanager) | 🇬🇧 Modern swap file manager: live dashboard, zram, wizard, 32 languages<br>🇩🇪 *Moderne Swap-Verwaltung: Live-Übersicht, zram, Assistent, 32 Sprachen* | [![Latest release](https://img.shields.io/github/v/release/Paderman/enigma2-plugin-simpleswapmanager?label=release)](https://github.com/Paderman/enigma2-plugin-simpleswapmanager/releases/latest) |
 
+## KDE
+### Widgets
+🇬🇧 Widgets for **KDE** .
+
+🇩🇪 *Widgets für **KDE**.*
+
+| Widget | Description / Beschreibung | Download |
+|---|---|---|
+| [Placeholder](https://github.com/Paderman/Placeholder) | 🇬🇧 Placeholder<br>🇩🇪 *Platzhalter* | [![Latest release](https://img.shields.io/github/v/release/Paderman/Placeholder?label=release)](https://github.com/Paderman/wp-plugin-ean-isbn-barcodes/releases/latest) |
+
+🇬🇧 Bug reports, translation corrections or wishes are welcome – please open an issue in the plugin's repository.
+
+🇩🇪 *Fehlermeldungen, Übersetzungskorrekturen oder Wünsche sind willkommen – bitte ein Issue im Repository des Plugins öffnen.*
+
+
 ## WordPress plugins
 
 🇬🇧 Plugins for **WordPress** websites and **WooCommerce** shops.
