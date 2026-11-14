@@ -9,7 +9,7 @@
 |---|---|---|
 | [Simple Swap Manager](https://github.com/Paderman/enigma2-plugin-simpleswapmanager) | 🇬🇧 Modern swap file manager: live dashboard, zram, wizard, 32 languages<br>🇩🇪 *Moderne Swap-Verwaltung: Live-Übersicht, zram, Assistent, 32 Sprachen* | [![Latest release](https://img.shields.io/github/v/release/Paderman/enigma2-plugin-simpleswapmanager?label=release)](https://github.com/Paderman/enigma2-plugin-simpleswapmanager/releases/latest) |
 
-## KDE
+## KDE Plasma
 
 ### Dolphin
 🇬🇧 Tools for **Dolphin** .
