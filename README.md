@@ -27,7 +27,7 @@
 
 | Widget | Description / Beschreibung | Download |
 |---|---|---|
-| [Sensor Deck](https://github.com/Paderman/kde-plasma-widget-sensordeck) | 🇬🇧 A GPU & system monitor widget for KDE Plasma 6: VRAM temperature, throttling, PCIe link and a self-learning fan curve – plus CPU, memory, SSDs and fans, as rings, bars and graphs.<br>🇩🇪 *Ein GPU- & System-Monitor für KDE Plasma 6: VRAM-Temperatur, Taktbremse, PCIe-Verbindung und eine selbstlernende Lüfterkurve – dazu Prozessor, Arbeitsspeicher, SSDs und Lüfter, als Ringe, Balken und Graphen.* | [![Latest release](https://img.shields.io/github/v/release/Paderman/kde-plasma-widget-sensordeck?label=release)](https://github.com/Paderman/kde-plasma-widget-sensordeck/releases/latest) |
+| [Hardware Tiles](https://github.com/Paderman/kde-plasma-widget-hardwaretiles) | 🇬🇧 A GPU & system monitor widget for KDE Plasma 6: VRAM temperature, throttling, PCIe link and a self-learning fan curve – plus CPU, memory, SSDs and fans, as rings, bars and graphs.<br>🇩🇪 *Ein GPU- & System-Monitor für KDE Plasma 6: VRAM-Temperatur, Taktbremse, PCIe-Verbindung und eine selbstlernende Lüfterkurve – dazu Prozessor, Arbeitsspeicher, SSDs und Lüfter, als Ringe, Balken und Graphen.* | [![Latest release](https://img.shields.io/github/v/release/Paderman/kde-plasma-widget-hardwaretiles?label=release)](https://github.com/Paderman/kde-plasma-widget-hardwaretiles/releases/latest) |
 
 🇬🇧 Bug reports, translation corrections or wishes are welcome – please open an issue in the plugin's repository.
 
